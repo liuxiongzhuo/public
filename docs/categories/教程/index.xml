@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>兰雪知竹</title>
-        <link>https://lxzz.top.com/</link>
-        <description>Recent content on 兰雪知竹</description>
+        <title>教程 on 兰雪知竹</title>
+        <link>https://lxzz.top.com/categories/%E6%95%99%E7%A8%8B/</link>
+        <description>Recent content in 教程 on 兰雪知竹</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Thu, 31 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://lxzz.top.com/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>我的第一篇博客</title>
-        <link>https://lxzz.top.com/post/1/</link>
-        <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
-        
-        <guid>https://lxzz.top.com/post/1/</guid>
-        <description>&lt;p&gt;向每一天问好。&lt;/p&gt;
-</description>
-        </item>
-        <item>
+        <lastBuildDate>Wed, 23 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://lxzz.top.com/categories/%E6%95%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>github pages托管静态网站</title>
         <link>https://lxzz.top.com/post/3/</link>
         <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
@@ -30,19 +21,6 @@
 到仓库的设置，pages选项，选择delpoy from a 面设置自定义域名，在仓库文件添加CNAME文件，文件内容为域名，不包含协议，没有后缀名。&lt;br&gt;
 准备静态网站页面上传到github仓库。&lt;br&gt;
 提醒：设置自定义域名就会自动在仓库添加CNAME文件，push时不要删除，不然自定义域名就要重新设置。&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>关于影视飓风视频下架的想法</title>
-        <link>https://lxzz.top.com/post/2/</link>
-        <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
-        
-        <guid>https://lxzz.top.com/post/2/</guid>
-        <description>&lt;p&gt;影视飓风发布关于视频网站为了降低流量费用而采用技术手段的视频全网下架。我对视频网站的行为发表观点。&lt;br&gt;
-国家呼吁降费提速，但是云服务器的流量费增加了，平台这么做情有可原。&lt;br&gt;
-平台应该跟投资方和用户说明他们采用的措施，而不是自己单方面采用这些技术。&lt;br&gt;
-对于一些流量使用受限的用户，这样可以节约他们的流量费。&lt;br&gt;
-平台应该让用户选择是否使用某种编码方式。&lt;/p&gt;
 </description>
         </item>
         
